@@ -18,5 +18,13 @@
     <ClCompile Include="game.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="buttons.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="buttons.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
